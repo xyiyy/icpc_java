@@ -1,0 +1,33 @@
+5 range
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+43 6
+101111
+001111
+111111
+001111
+101101
+111001
+14 2 10
+3 4
+4 1  
+1
+8 src/main
+16 -Xmx256m -Xss64m
+5 range
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.10
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

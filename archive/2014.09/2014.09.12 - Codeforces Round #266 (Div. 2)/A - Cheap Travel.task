@@ -1,0 +1,33 @@
+16 A - Cheap Travel
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+8 6 2 1 2
+
+2 6
+
+1
+1
+8 5 2 2 3
+
+2 8
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.09.12
+30 Codeforces Round #266 (Div. 2)
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

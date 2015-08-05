@@ -1,0 +1,75 @@
+5 TaskB
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+81 3 3 2 2 2
+*00
+0**
+*00
+
+**
+00
+
+*0
+**
+3 3 2 2 2
+*00
+0**
+*00
+
+**
+00
+
+*0
+0*
+0 0 0 0 0
+19 Case 1: 1
+Case 2: 2
+1
+1
+40 1 1 1 1 1
+*
+
+*
+1 1 1 1 1
+*
+
+0
+0 0 0 0 0
+
+20 Case 1: 1
+Case 2: 0
+
+1
+2
+49 4 4 1 2 3
+*0**
+*0**
+***0
+0000
+
+***
+000
+
+0 0 0 0 0
+9 Case 1: 1
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+1
+18 main.TaskBTestCase
+10 2014.10.01
+14 <TiaoZhan> 4.7
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,34 @@
+1 A
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+20 5
+31524
+897
+123
+10
+5
+82 Case #1: 13524 51324
+Case #2: 798 987
+Case #3: 123 321
+Case #4: 10 10
+Case #5: 5 5
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+6 main.A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.09
+2 FB
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

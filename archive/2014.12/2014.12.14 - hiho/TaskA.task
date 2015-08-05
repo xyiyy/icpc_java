@@ -1,0 +1,29 @@
+5 TaskA
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+81 The Marshtomp has seen it all before.
+marshTomp is beaten by fjxmlhx!
+AmarshtompB
+71 The fjxmlhx has seen it before.
+fjxmlhx is beaten by fjxmlhx!
+AfjxmlhxB
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.14
+4 hiho
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,28 @@
+5 TaskC
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+54 10 3 6 7 8 5
+1874 2945 2030 2789 1025 3794
+0 0 0 0 0 0
+67 Anna's won-loss record is 2-11.
+Anna's won-loss record is 4709-110.
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.08.30
+5 SHUOJ
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

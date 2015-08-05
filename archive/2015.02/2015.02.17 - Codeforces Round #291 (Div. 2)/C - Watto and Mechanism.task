@@ -1,0 +1,34 @@
+23 C - Watto and Mechanism
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+38 2 3
+aaaaa
+acacaca
+aabaa
+ccacacc
+caaac
+
+10 YES
+NO
+NO
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.17
+30 Codeforces Round #291 (Div. 2)
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

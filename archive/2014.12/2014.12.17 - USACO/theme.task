@@ -1,0 +1,27 @@
+5 theme
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+92 30
+25 27 30 34 39 45 52 60 69 79 69 60 52 45 39 34 30 26 22 18
+82 78 74 70 66 67 64 60 65 80
+1 5
+1
+8 src/main
+16 -Xmx256m -Xss64m
+5 theme
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.17
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,53 @@
+5 gift1
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+117 5
+dave
+laura
+owen
+vick
+amr
+dave
+200 3
+laura
+owen
+vick
+owen
+500 1
+dave
+amr
+150 2
+vick
+owen
+laura
+0 2
+amr
+vick
+vick
+0 0
+46 dave 302
+laura 66
+owen -359
+vick 141
+amr -150
+
+1
+8 src/main
+16 -Xmx256m -Xss64m
+5 gift1
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.22
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

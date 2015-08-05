@@ -1,0 +1,43 @@
+36 B - Design Tutorial: Learn from Life
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+10 3 2
+2 3 4
+
+2 8
+
+1
+1
+18 4 2
+50 100 50 100
+
+4 296
+
+1
+2
+25 10 3
+2 2 2 2 2 2 2 2 2 2
+
+2 8
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+1
+18 main.TaskBTestCase
+10 2014.09.29
+21 Codeforces Round #270
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

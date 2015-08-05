@@ -1,0 +1,35 @@
+27 A - New Year Transportation
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+18 8 4
+1 2 1 2 1 2 1
+
+4 YES
+
+1
+1
+18 8 5
+1 2 1 2 1 1 1
+
+3 NO
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.30
+13 Good Bye 2014
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

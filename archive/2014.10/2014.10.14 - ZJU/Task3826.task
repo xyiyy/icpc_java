@@ -1,0 +1,57 @@
+8 Task3826
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+93 1
+{"hm":"Edward","stu":{"stu01":"Alice","stu02":"Bob"}}
+4
+"hm"
+"stu"
+"stu"."stu01"
+"students"
+55 "Edward"
+{"stu01":"Alice","stu02":"Bob"}
+"Alice"
+Error!
+1
+1
+65 1
+{"a":"b","c":{},"d":"","e":{"f":{}}}
+5
+"a"
+"c"
+"d"
+"e"
+"e"."f"
+
+21 "b"
+{}
+""
+{"f":{}}
+{}
+1
+2
+9 1
+{}
+1
+""
+6 Error!
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+13 main.Task3826
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.10.14
+3 ZJU
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

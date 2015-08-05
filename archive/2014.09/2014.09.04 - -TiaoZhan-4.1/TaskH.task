@@ -1,0 +1,34 @@
+5 TaskH
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+48 3 2 2 2
+3 2 2 3
+2 2 3 4
+31 4 2 3
+3 2 2 7
+0 0 0 0
+170 1 0 -10 0 1
+1 0 -9 -4 27 -36 -23
+1 0 -8 0 18 0 -104 0 1
+1 0 0 -8 -93 0 24 -2976 2883 -32 -3720 -23064 -29775
+1 0 -21 0 189 0 -945 -4 2835 -252 -5103 -1260 5103 -756 -2183
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskH
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.09.04
+13 <TiaoZhan>4.1
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,40 @@
+15 E - Pretty Song
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+8 IEAIAIO
+
+11 28.0000000
+
+1
+1
+5 BYOB
+
+10 5.8333333
+
+1
+2
+9 YISVOWEL
+
+11 17.0500000
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+1
+18 main.TaskETestCase
+10 2015.01.31
+46 Codeforces Round #289 (Div. 2, ACM ICPC Rules)
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

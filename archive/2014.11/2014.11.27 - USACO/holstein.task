@@ -1,0 +1,30 @@
+8 holstein
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+67 4
+100 200 300 400
+3
+50   50  50  50
+200 300 200 300
+900 150 389 399
+5 2 1 3
+1
+8 src/main
+16 -Xmx256m -Xss64m
+8 holstein
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.27
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,35 @@
+23 D - Dreamoon and Binary
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+4 101
+
+4 1
+6
+
+1
+1
+6 11010
+
+4 3
+5
+
+1
+8 src/main
+8 -Xmx512M
+4 Main
+10 main.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.30
+30 Codeforces Round #272 (Div. 1)
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

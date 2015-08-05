@@ -1,0 +1,40 @@
+6 sprime
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+1 4
+79 2333
+2339
+2393
+2399
+2939
+3119
+3137
+3733
+3739
+3793
+3797
+5939
+7193
+7331
+7333
+7393
+1
+8 src/main
+16 -Xmx256m -Xss64m
+6 sprime
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.25
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,37 @@
+27 B - Strongly Connected City
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+12 3 3
+><>
+v^v
+
+3 NO
+
+1
+1
+16 4 6
+<><>
+v^v^v^
+
+4 YES
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.10.05
+26 Bayan 2015 Contest Warm Up
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

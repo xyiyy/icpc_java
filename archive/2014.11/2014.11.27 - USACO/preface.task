@@ -1,0 +1,26 @@
+7 preface
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+1 5
+7 I 7
+V 2
+1
+8 src/main
+16 -Xmx256m -Xss64m
+7 preface
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.27
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

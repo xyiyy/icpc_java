@@ -1,0 +1,47 @@
+24 B - New Year Permutation
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+72 7
+5 2 4 3 6 7 1
+0001001
+0000000
+0000010
+1000001
+0000000
+0010000
+1001000
+
+14 1 2 4 3 6 7 5
+
+1
+1
+42 5
+4 2 1 5 3
+00100
+00011
+10010
+01101
+01010
+
+10 1 2 3 4 5
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.30
+13 Good Bye 2014
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

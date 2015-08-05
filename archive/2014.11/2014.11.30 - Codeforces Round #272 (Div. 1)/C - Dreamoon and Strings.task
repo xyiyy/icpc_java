@@ -1,0 +1,47 @@
+24 C - Dreamoon and Strings
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+4
+0
+9 aaaaa
+aa
+
+12 2 2 1 1 0 0
+
+1
+1
+11 axbaxxb
+ab
+
+16 0 1 1 2 1 1 0 0
+
+1
+2
+4 aa
+a
+5 2 1 0
+1
+3
+20 abxxxaxbxaxxxba
+aba
+
+32 0 0 1 1 1 1 2 2 2 2 1 1 1 0 0 0
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.30
+30 Codeforces Round #272 (Div. 1)
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

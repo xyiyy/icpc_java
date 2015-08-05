@@ -1,0 +1,28 @@
+6 ratios
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+23 3 4 5
+1 2 3
+3 7 1
+2 1 2
+7 8 1 5 7
+1
+8 src/main
+16 -Xmx256m -Xss64m
+6 ratios
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.05
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

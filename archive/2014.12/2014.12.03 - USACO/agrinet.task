@@ -1,0 +1,29 @@
+7 agrinet
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+39 4
+0 4 9 21
+4 0 8 17
+9 8 0 16
+21 17 16 0
+2 28
+1
+8 src/main
+16 -Xmx256m -Xss64m
+7 agrinet
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.03
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

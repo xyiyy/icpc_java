@@ -1,0 +1,39 @@
+5 TaskF
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+8 ab
+bc
+cd
+1 4
+1
+1
+16 abacaba
+abaaba
+x
+2 11
+1
+2
+33 jwdezvgfm
+mdoqvylpuvyk
+qylldbziva
+-1
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskF
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.10.16
+14 <TiaoZhan> 4.7
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

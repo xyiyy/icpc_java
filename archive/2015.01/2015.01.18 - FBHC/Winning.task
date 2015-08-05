@@ -1,0 +1,34 @@
+7 Winning
+6 SINGLE
+7 TASK_ID
+16 Autocomplete.txt
+7 TASK_ID
+10 output.txt
+1
+0
+27 5
+2-1
+3-1
+3-2
+10-5
+1000-500
+83 Case #1: 1 1
+Case #2: 2 1
+Case #3: 2 2
+Case #4: 1001 42
+Case #5: 70047606 591137401
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+12 main.Winning
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.18
+4 FBHC
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

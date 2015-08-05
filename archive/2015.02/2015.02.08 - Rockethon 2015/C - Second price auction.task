@@ -1,0 +1,39 @@
+24 C - Second price auction
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+15 3
+4 7
+8 10
+5 5
+
+13 5.7500000000
+
+1
+1
+14 3
+2 5
+3 4
+1 6
+
+13 3.5000000000
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.02.08
+14 Rockethon 2015
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

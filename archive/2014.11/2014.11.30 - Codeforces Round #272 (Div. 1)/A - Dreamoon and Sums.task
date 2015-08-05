@@ -1,0 +1,33 @@
+21 A - Dreamoon and Sums
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+4 1 1
+
+2 0
+
+1
+1
+4 2 2
+
+2 8
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.30
+30 Codeforces Round #272 (Div. 1)
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

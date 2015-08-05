@@ -1,0 +1,55 @@
+5 TaskA
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+271 --A----C-----O-I
+-J--A-B-P-CGF-H-
+--D--F-I-E----P-
+-G-EL-H----M-J--
+----E----C--G---
+-I--K-GA-B---E-J
+D-GP--J-F----A--
+-E---C-B--DP--O-
+E--F-M--D--L-K-A
+-C--------O-I-L-
+H-P-C--F-A--B---
+---G-OD---J----H
+K---J----H-A-P-L
+--B--P--E--K--A-
+-H--B--K--FI-C--
+--F---C--D--H-N-
+271 FPAHMJECNLBDKOGI
+OJMIANBDPKCGFLHE
+LNDKGFOIJEAHMBPC
+BGCELKHPOFIMAJDN
+MFHBELPOACKJGNID
+CILNKDGAHBMOPEFJ
+DOGPIHJMFNLECAKB
+JEKAFCNBGIDPLHOM
+EBOFPMIJDGHLNKCA
+NCJDHBAEKMOFIGLP
+HMPLCGKFIAENBDJO
+AKIGNODLBPJCEFMH
+KDEMJIFNCHGAOPBL
+GLBCDPMHEONKJIAF
+PHNOBALKMJFIDCEG
+IAFJOECGLDPBHMNK
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.09.23
+14 <TiaoZhan> 4.5
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

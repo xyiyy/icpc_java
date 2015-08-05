@@ -1,0 +1,39 @@
+1 D
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+77 5
+3
+0 1 1
+8
+0 1 1 2 2 3 3 3
+5
+0 1 2 3 4
+9
+0 1 2 3 4 5 5 5 5
+8
+0 1 1 1 1 2 2 2
+57 Case #1: 4
+Case #2: 10
+Case #3: 7
+Case #4: 12
+Case #5: 11
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+6 main.D
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.18
+4 FBHC
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

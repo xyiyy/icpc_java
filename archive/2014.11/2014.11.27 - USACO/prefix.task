@@ -1,0 +1,27 @@
+6 prefix
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+29 A AB BA CA BBC
+.
+ABABACABAABC
+2 11
+1
+8 src/main
+16 -Xmx256m -Xss64m
+6 prefix
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.11.27
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

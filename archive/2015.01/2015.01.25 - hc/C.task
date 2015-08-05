@@ -1,0 +1,71 @@
+1 C
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+2
+0
+166 5
+6 4
+tin
+tiny
+tinny
+gigantic
+tilt
+tilts
+3 2
+apple
+apricot
+cherry
+5 3
+a
+aa
+aaa
+aaaa
+aaaaa
+5 3
+the
+quick
+brown
+fox
+jumped
+8 7
+cork
+work
+card
+ward
+font
+front
+word
+sword
+56 Case #1: 11
+Case #2: 2
+Case #3: 6
+Case #4: 3
+Case #5: 13
+1
+1
+25 1
+5 3
+a
+aa
+aaa
+aaaa
+aaaaa
+10 Case #1: 6
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+6 main.C
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.25
+2 hc
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

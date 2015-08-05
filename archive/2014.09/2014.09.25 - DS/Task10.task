@@ -1,0 +1,55 @@
+6 Task10
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+82 7 9 3
+1 2 50
+1 3 60
+2 4 120
+2 5 90
+3 6 50
+4 6 80
+4 7 70
+5 7 40
+6 7 140
+1 7
+2 6
+6 2
+8 80
+60
+60
+1
+1
+60 7 6 3
+1 2 50
+1 3 60
+2 4 120
+3 6 50
+4 6 80
+5 7 40
+7 5
+1 7
+2 4
+13 40
+no path
+80
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+11 main.Task10
+39 net.egork.chelper.checkers.TokenChecker
+0 
+1
+19 main.Task10TestCase
+10 2014.09.25
+2 DS
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

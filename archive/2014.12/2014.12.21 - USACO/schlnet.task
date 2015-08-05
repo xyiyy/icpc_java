@@ -1,0 +1,31 @@
+7 schlnet
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+23 5
+2 4 3 0
+4 5 0
+0
+0
+1 0
+3 1
+2
+1
+8 src/main
+16 -Xmx256m -Xss64m
+7 schlnet
+10 main.USACO
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.12.21
+5 USACO
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

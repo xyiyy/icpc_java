@@ -1,0 +1,51 @@
+45 G - Design Tutorial: Increase the Constraints
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+36 101010
+11110000
+3
+0 0 3
+2 3 4
+5 7 1
+
+6 1
+1
+0
+
+1
+1
+106 10001010101011001010100101010011010
+101010100101001010100100101010
+5
+0 0 12
+3 9 7
+6 4 15
+12 15 10
+13 3 20
+
+11 5
+4
+3
+5
+13
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskG
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.09.28
+21 Codeforces Round #270
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

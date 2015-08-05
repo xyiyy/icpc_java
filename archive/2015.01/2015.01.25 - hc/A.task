@@ -1,0 +1,39 @@
+1 A
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+1
+0
+67 5
+4
+1 2 3 4
+4
+1 3 2 4
+9
+2 4 3 1 5 9 6 7 8
+6
+4 3 2 1 6 5
+5
+3 4 5 1 2
+62 Case #1: yes
+Case #2: no
+Case #3: no
+Case #4: yes
+Case #5: yes
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+6 main.A
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.25
+2 hc
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

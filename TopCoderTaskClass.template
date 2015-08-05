@@ -1,0 +1,9 @@
+package %package%;
+import java.util.*;
+import com.shu_mj.tpl.Algo;
+
+public class %TaskClass% {
+    public %Signature% {
+        return %DefaultValue%;
+    }
+}

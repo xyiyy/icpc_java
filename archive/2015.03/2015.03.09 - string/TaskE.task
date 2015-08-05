@@ -1,0 +1,65 @@
+5 TaskE
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+6
+0
+15 4 3
+AT
+AC
+AG
+AA
+2 36
+1
+1
+3 0 1
+1 4
+1
+2
+12 0 2000000000
+4 9376
+1
+3
+9 2 3
+AT
+GT
+2 48
+1
+4
+9 2 4
+A
+AB
+
+2 81
+1
+5
+86 10 100
+AGAGAGT
+CGTATTG
+AAAATTTCGC
+GCGTA
+TCGA
+AATTGGA
+TAGATAGC
+AGCGTATT
+TTCGA
+TACGTATTG
+5 35771
+1
+8 src/main
+16 -Xmx256m -Xss64m
+4 Main
+10 main.TaskE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+1
+18 main.TaskETestCase
+10 2015.03.09
+6 string
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0

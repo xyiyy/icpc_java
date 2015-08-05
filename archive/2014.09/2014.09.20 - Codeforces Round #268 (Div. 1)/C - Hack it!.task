@@ -1,0 +1,33 @@
+12 C - Hack it!
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+3 46
+
+5 1 10
+
+1
+1
+16 126444381000032
+
+22 2333333 2333333333333
+
+1
+8 src/main
+8 -Xmx256M
+4 Main
+10 main.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.09.20
+30 Codeforces Round #268 (Div. 1)
+1
+22 com.shu_mj.tpl.Scanner
+19 java.io.PrintWriter
+0
+0
